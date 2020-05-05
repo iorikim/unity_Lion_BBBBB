@@ -40,7 +40,7 @@ public class bat : MonoBehaviour
     public void injured()
     {
         int allhp = 血量 -= slime1.攻擊力;
-        result.text += "\n" + gameObject.name + "當前血量:" + allhp;
+         result.text += "\n" +  gameObject.name + "當前血量:" + allhp;
     }
 
     /// <summary>
