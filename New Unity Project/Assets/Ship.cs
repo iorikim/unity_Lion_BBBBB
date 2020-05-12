@@ -47,4 +47,7 @@ public class Ship : MonoBehaviour
     // value 設定屬性時給予的值
     private float _atk;
     public float atk { get { return _atk; }set { _atk = value * lv; } }
+    //使用快速完成的黏巴達寫法49行與52行是相同的
+    private float _def;
+    public float def { get => _def ;  set => _def = value * lv; }
 }
