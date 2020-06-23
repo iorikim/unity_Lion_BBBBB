@@ -953,7 +953,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3a8d4648c063994788d22d88a1cf988, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  speed: 6
   people: []
   distance: []
 --- !u!136 &625161499
@@ -1256,7 +1256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27d809c7971daaa49bb5ec752ebd7049, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 1.5
   people: []
   distance: []
   stop: 5
@@ -1772,6 +1772,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: "\u7537\u5B69"
       objectReference: {fileID: 0}
+    - target: {fileID: 48822144903270245, guid: d246c032d973bfa48b12c3c88a4d0d16,
+        type: 3}
+      propertyPath: speed
+      value: 2.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d246c032d973bfa48b12c3c88a4d0d16, type: 3}
 --- !u!1001 &2971115853343983238
@@ -1979,6 +1984,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: "\u5973\u5B69"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4574797565384217761, guid: 240f28c3d4654ff4f9e7d04df26e2352,
+        type: 3}
+      propertyPath: speed
+      value: 2.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 240f28c3d4654ff4f9e7d04df26e2352, type: 3}
