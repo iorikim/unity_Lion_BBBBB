@@ -1,5 +1,13 @@
 sceneSetups:
+<<<<<<< Updated upstream
 - path: "Assets/\u7B2C\u516B\u7AE0\uFF1A\u7DF4\u7FD2.unity"
+=======
+<<<<<<< HEAD
+- path: "Assets/\u7B2C\u516B\u7AE0\uFF1A\u7DF4\u7FD2.unity"
+=======
+- path: Assets/Scenes/SampleScene.unity
+>>>>>>> 520e26344b687ae7aab50b17a4dcd46b3de331eb
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0
